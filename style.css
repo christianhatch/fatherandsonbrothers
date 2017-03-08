@@ -1,0 +1,51 @@
+html, body{
+	height: 100%;
+	background: #F6F6F6;
+}
+
+iframe{
+	width: 100%;
+	height: 100%;
+}
+
+.apps{
+	text-align: center;
+}
+
+.apps img{
+	border-radius: 20px;
+}
+
+.profile-image img{
+	margin: 0px;
+	margin-bottom: 40px;
+	border-radius: 3px;
+}
+
+.nav>li>a{
+	color: #329E3D;
+}
+
+a {
+	color: #329E3D;
+}
+
+a:hover{
+	color: #0A5C12;
+}
+
+.nav-pills>li.active>a{
+	background-color: #329E3D;
+}
+
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    background-color: #329E3D;
+}
+
+.nav-pills > li.active > a:hover{
+    background-color: #329E3D;
+}
+
+.footer{
+	text-align: center;
+}
